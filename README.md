@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f97316&height=250&section=header&text=Logan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f97316&height=250&section=header&text=Gustavo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3 align="center">
 ☕ Java Back-End Developer in Progress
