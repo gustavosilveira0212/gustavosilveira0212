@@ -67,7 +67,7 @@ Financial vault management system developed in Java with focus on:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gustavo-silveira22/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
